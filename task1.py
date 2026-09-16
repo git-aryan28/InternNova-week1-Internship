@@ -1,0 +1,8 @@
+print("welcome...")
+name = input("enter your name-")
+college = input("enter your college name-")
+branch = input("enter your branch-")
+print("\nStudent Details")
+print("Name-",name)
+print("College Name-",college)
+print("Branch-",branch)
